@@ -72,7 +72,7 @@ A modern, feature-rich desktop currency converter built with **Python** and **Cu
 ### Clone Repository
 
 ```bash
-git clone https://github.com/teja2519/GlobalCurrencyConverterPro-1.1.git
+git clone https://github.com/teja2519/GlobalCurrencyConverterPro.git
 cd GlobalCurrencyConverterPro-1.1
 ```
 
