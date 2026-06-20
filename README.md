@@ -22,21 +22,12 @@ A modern, feature-rich desktop currency converter built with **Python** and **Cu
 - Quick access from the dashboard
 - Stored locally for convenience
 
-### 🔔 Exchange Rate Alerts
-- Set custom upper/lower thresholds
-- Receive notifications when rates cross targets
-- Automatic monitoring during refresh cycles
 
 ### 📊 Conversion History
 - CSV-backed conversion history
 - Search and sort previous conversions
 - Export history to CSV and PDF
 
-### 🌐 Multi-Language Support
-- English
-- Spanish
-- French
-- Hindi
 
 ### ⚡ Additional Features
 - Auto-refresh exchange rates
@@ -60,10 +51,7 @@ A modern, feature-rich desktop currency converter built with **Python** and **Cu
 ### Favorites System
 ![Favorites](assets/screenshots/favorites.png)
 
-### Exchange Rate Alerts
-![Alerts](assets/screenshots/alerts.png)
 
-> Add your screenshots inside `assets/screenshots/`
 
 ---
 
@@ -73,7 +61,7 @@ A modern, feature-rich desktop currency converter built with **Python** and **Cu
 
 ```bash
 git clone https://github.com/teja2519/GlobalCurrencyConverterPro.git
-cd GlobalCurrencyConverterPro-1.1
+cd GlobalCurrencyConverterPro
 ```
 
 ### Install Dependencies

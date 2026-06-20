@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .DS_Store
 data/cache/
+data/history.csv
+data/favorites.json
+data/settings.json

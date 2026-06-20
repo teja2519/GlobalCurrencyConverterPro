@@ -1,8 +1,0 @@
-{
-  "theme": "light",
-  "default_from": "USD",
-  "default_to": "INR",
-  "decimal_precision": 2,
-  "auto_refresh_seconds": 60,
-  "language": "English"
-}
